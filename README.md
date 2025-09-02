@@ -9,7 +9,7 @@ A simple Python-based Command Line Interface (CLI) application to manage tasks.
 - Saves data in a JSON file
 
 ## Project URL
-[https://github.com/your-username/cli-task-manager](https://github.com/Shaheryar823/Task-tracker.git)
+[https://github.com/Shaheryar823/Task-tracker.git](https://github.com/Shaheryar823/Task-tracker.git)
 
 ## Usage
 ```bash
