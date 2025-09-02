@@ -10,8 +10,6 @@ A simple Python-based Command Line Interface (CLI) application to manage tasks.
 
 ## Project URL
 [https://github.com/Shaheryar823/Task-tracker.git](https://github.com/Shaheryar823/Task-tracker.git)
-## Project URL
-https://roadmap.sh/projects/task-tracker
 
 
 ## Usage
@@ -26,3 +24,6 @@ ID    Description                   Status       Created At
 101   Call Ali                      pending      2025-09-02T10:20:00
 102   Meet Ahmed                    done         2025-09-02T10:22:15
 --------------------------------------------------------------------------------
+
+## Project URL
+https://roadmap.sh/projects/task-tracker
