@@ -10,6 +10,9 @@ A simple Python-based Command Line Interface (CLI) application to manage tasks.
 
 ## Project URL
 [https://github.com/Shaheryar823/Task-tracker.git](https://github.com/Shaheryar823/Task-tracker.git)
+## Project URL
+https://roadmap.sh/projects/task-tracker
+
 
 ## Usage
 ```bash
